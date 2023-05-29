@@ -1,0 +1,13 @@
+*{
+    margin: 45px;
+    background-color: bisque;
+}
+h1{
+    color: purple;
+    padding: 30px;
+}
+h3{
+    color: red;
+    background-color: coral;
+    padding: 30px;
+}
